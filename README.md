@@ -155,6 +155,10 @@ Provides solutions for precision farming, enabling farmers to monitor their crop
 
   Non-profit research and development lab, focused on reducing greenhouse gas emissions by solving machine learning problems. As of 2019 they are working on a forecasting system to reduce gas turbines backups on power grids that use solar energy.
 
+- [PlaySolar](http://playsolar.in/)  | Bengaluru, India | 2015
+  
+  PlaySolar is a company focussed in building affordable solar energy applications and connected communities worldwide. PlaySolar’s cloud monitoring solution, CloudSol™ is a web-based remote monitoring, control and performance analysis tool for their products. As of 2019 they are leading some of key solar power adaptation projects in Bengaluru, India.
+  
 - [Redflow](https://redflow.com/) | Brisbane, Australia | 2001
 
   Manufacture zinc-bromine flow batteries that tolerate daily hard work in harsh conditions with minimal reduction in capacity over time, solutions for the residential and industrial installations.
